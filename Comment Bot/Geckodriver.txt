@@ -1,0 +1,9 @@
+this component
+https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-macos-aarch64.tar.gz
+
+okey, u have mozilla in your pc?
+else 
+https://www.mozilla.org/es-ES/firefox/mac/
+download and
+
+comment send 
